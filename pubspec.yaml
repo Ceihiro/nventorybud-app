@@ -57,6 +57,12 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  fonts:
+    - family: MyFont
+      fonts:
+        - asset: assets/fonts/Forrest-Light.otf
+
+
   assets:
     - assets/NventoryBud.png
 

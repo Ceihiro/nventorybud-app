@@ -15,7 +15,7 @@ class _SplashScreenState extends State<SplashScreen> {
     Future.delayed(const Duration(seconds: 3), () {
       Navigator.of(context).pushReplacement(
         MaterialPageRoute(
-          builder: (context) => const MyHomePage(title: 'Flutter Demo Home Page'),
+          builder: (context) => const MyHomePage(title: 'Home Page'), // Pass title to MyHomePage
         ),
       );
     });
@@ -25,7 +25,7 @@ class _SplashScreenState extends State<SplashScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Image.asset('assets/NventoryBud.png'), // Your PNG image path
+        child: Image.asset('assets/NventoryBud.png'), // PNG image path
       ),
     );
   }
