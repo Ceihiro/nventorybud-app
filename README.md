@@ -2,7 +2,10 @@
 
 <div align="center">
 
-![NventoryBud Logo](assets/NventoryBud.png)
+<p align="center">
+  <img src="assets/app.jpg" width="110" alt="NventoryBud Logo">
+</p>
+
 
 ### *Your buddy for smarter sales and inventory*
 
