@@ -14,7 +14,7 @@
 
 A simple yet powerful Flutter mobile app for small businesses to manage inventory, track sales, and generate reports.
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Structure](#-projectstructure)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Structure](#-project-structure)
 
 </div>
 
