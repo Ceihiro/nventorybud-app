@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/icon/app.jpg" width="110" alt="NventoryBud Logo">
+  <img src="assets/icons/app.jpg" width="110" alt="NventoryBud Logo">
 </p>
 
 
