@@ -6,7 +6,6 @@
   <img src="assets/icons/app.jpg" width="110" alt="NventoryBud Logo">
 </p>
 
-
 ### *Your buddy for smarter sales and inventory*
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
