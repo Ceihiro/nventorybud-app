@@ -14,7 +14,7 @@
 
 A simple yet powerful Flutter mobile app for small businesses to manage inventory, track sales, and generate reports.
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Project Structure](#️-project-structure)
 
 </div>
 
@@ -216,6 +216,15 @@ lib/
 ├── report_page.dart       # Receipt generation
 └── help_page.dart         # User guide
 ```
+
+**File Links:**
+- [`main.dart`](lib/main.dart) - Entry point & navigation
+- [`splash_screen.dart`](lib/splash_screen.dart) - Initial loading screen
+- [`product_page.dart`](lib/product_page.dart) - Product CRUD operations
+- [`sales_page.dart`](lib/sales_page.dart) - Sales transactions
+- [`analytics_page.dart`](lib/analytics_page.dart) - Data visualization
+- [`report_page.dart`](lib/report_page.dart) - Receipt generation
+- [`help_page.dart`](lib/help_page.dart) - User guide
 
 ---
 
