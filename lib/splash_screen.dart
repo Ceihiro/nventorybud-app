@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'main.dart';  // Adjust this import path if splash_screen.dart is in a subfolder
+import 'main.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -12,10 +12,12 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    Future.delayed(const Duration(seconds: 3), () {
+    // Delay navigation for 2 seconds, then replace splash screen with home page
+    // Uses pushReplacement to prevent back navigation to splash screen
+    Future.delayed(const Duration(seconds: 2), () {
       Navigator.of(context).pushReplacement(
         MaterialPageRoute(
-          builder: (context) => const MyHomePage(title: 'Home Page'), // Pass title to MyHomePage
+          builder: (context) => const MyHomePage(title: 'NventoryBud'),
         ),
       );
     });
@@ -25,7 +27,7 @@ class _SplashScreenState extends State<SplashScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Image.asset('assets/NventoryBud.png'), // PNG image path
+        child: Image.asset('assets/NventoryBud.png'), // Display app logo during splash
       ),
     );
   }
