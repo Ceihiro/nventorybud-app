@@ -251,13 +251,19 @@ Feel free to fork it for your own learning!
 
 ## ⚠️ Educational Purpose
 
-This project was created for **educational purposes** as part of learning Flutter development. While functional, it is:
-- 📚 A learning/portfolio project
-- 🎓 Not intended for commercial production use
-- 🔧 May lack enterprise-level features (authentication, cloud sync, etc.)
-- 💡 Open for learning, experimentation, and improvement
+This project was created as a school project while learning Flutter development. It is functional and open for learning and improvement.
 
-**Feel free to use this as a learning resource, contribute improvements, or adapt it for your own educational projects!**
+**Feel free to use this as a learning resource or adapt it for your own projects!**
+
+---
+
+## 👥 Team
+
+This project was developed by a team of 3 as a final project for our Object-Oriented Programming subject.
+
+- **Developer** — project setup, core features, and full implementation
+- **Designer** — UI/UX design and visual assets  
+- **Researcher** — research and assisted with coding
 
 ---
 
