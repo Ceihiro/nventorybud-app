@@ -249,14 +249,6 @@ Feel free to fork it for your own learning!
 
 ---
 
-## ⚠️ Educational Purpose
-
-This project was created as a school project while learning Flutter development. It is functional and open for learning and improvement.
-
-**Feel free to use this as a learning resource or adapt it for your own projects!**
-
----
-
 ## 👥 Team
 
 This project was developed by a team of 3 as a final project for our Object-Oriented Programming subject.
@@ -264,6 +256,12 @@ This project was developed by a team of 3 as a final project for our Object-Orie
 - **Developer** — project setup, core features, and full implementation
 - **Designer** — UI/UX design and visual assets  
 - **Researcher** — research and assisted with coding
+
+---
+
+## 🙏 Acknowledgements
+
+> Built as a final project for CCOBJPGL - Object-Oriented Programming · BSIT INF241 · 2025
 
 ---
 
